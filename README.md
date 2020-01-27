@@ -1,1 +1,1 @@
-[![Run on Repl.it](https://repl.it/badge/github/charliebren/2048)](https://repl.it/github/charliebren/2048)# 2048
+2048
